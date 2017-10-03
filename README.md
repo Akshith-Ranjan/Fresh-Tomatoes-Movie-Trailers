@@ -10,5 +10,5 @@ Python server for creating static web page that display my favourite movies.
 
 * double click on the file **entertainment_center.py** 
   ### Form Terminal
-     ` entertainment_center.py`
+     `python entertainment_center.py`
 
