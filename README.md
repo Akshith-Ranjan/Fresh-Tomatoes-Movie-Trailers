@@ -8,7 +8,7 @@ Python server for creating static web page that display my favourite movies.
 
 ## How to run
 
-* double click on the file **entertainment_center.py** 
+* Double click on the file **entertainment_center.py** 
   ### Form Terminal
      `python entertainment_center.py`
 
